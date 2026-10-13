@@ -35,7 +35,7 @@
 
 ## Built with
 
-React 19 · TypeScript · Vite · Tailwind CSS v4 · Framer Motion · React Three Fiber · React Router
+React 19 · TypeScript · Vite · Tailwind CSS v4 · Framer Motion · React Three Fiber · React Router · Lucide icons
 
 - One config file for brand, agents, metrics, ROI inputs, pricing and feature flags. Theme colours are CSS variables.
 - A typed mock AI layer (`generateMission`, `generateReplay`, `generateROI`…) that you swap for a real model provider.
