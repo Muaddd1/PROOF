@@ -31,6 +31,8 @@
 ![Ask PROOF](screenshots/gumroad/07-ask-proof.png)
 ![Workflow builder](screenshots/gumroad/08-workflow-builder.png)
 
+<img src="screenshots/gumroad/mobile-dashboard.png" alt="Mobile dashboard" width="300">
+
 ## Built with
 
 React 19 · TypeScript · Vite · Tailwind CSS v4 · Framer Motion · React Three Fiber · React Router
